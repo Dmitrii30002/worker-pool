@@ -3,5 +3,12 @@ Worker-pool пакет, который реализует примитивный
 
 ## Скачивание пакета
 ```bash
-  git clone [https://github.com/username/](https://github.com/Dmitrii30002/worker-pool.git)
+  git clone https://github.com/Dmitrii30002/worker-pool.git
 ```
+
+## Тестирование
+Для данного пакета так же были прописаны unit-тесты. Для заупска тестирования необходимо перейти в каталог с файлом go и прописать команду:
+```bash
+  go test -v
+```
+
